@@ -1,0 +1,29 @@
+{
+  "name": "dataframe",
+  "version": "1.0.0",
+  "description": "A high-performance DataFrame implementation for JavaScript with support for concurrent operations and typed arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eli-s-goldberg/DataFrame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eli-s-goldberg/DataFrame/issues"
+  },
+  "homepage": "https://github.com/eli-s-goldberg/DataFrame#readme",
+  "type": "module",
+  "dependencies": {
+    "@observablehq/inputs": "^0.12.0",
+    "@observablehq/plot": "^0.6.16",
+    "d3": "^7.9.0",
+    "d3-require": "^1.3.0",
+    "jstat": "^1.9.6",
+    "mathjs": "^14.0.1"
+  }
+}
